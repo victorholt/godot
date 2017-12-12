@@ -1,0 +1,3 @@
+[submodule "modules/landbuilder"]
+	path = modules/landbuilder
+	url = git@github.com:victorholt/landbuilder.git
